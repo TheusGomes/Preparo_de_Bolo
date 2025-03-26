@@ -21,10 +21,15 @@ bin/
 /dist/
 /nbdist/
 /.nb-gradle/
+/out/
+/target/
 
 ### VS Code ###
 .vscode/
 .idea/
+.iml
+.class
+.jar
 
 ### Mac OS ###
 .DS_Store
